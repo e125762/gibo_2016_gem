@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "gibo_2016_gem"
   spec.version       = Gibo2016Gem::VERSION
   spec.authors       = ["None"]
-  spec.email         = ["gibo@ie.u-ryukyu.ac.jp"]
+  spec.email         = ["keito@ie.u-ryukyu.ac.jp","gibo@ie.u-ryukyu.ac.jp"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
